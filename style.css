@@ -1,0 +1,47 @@
+/*I) Participants: 
+ 
+1. 20BM025 BIBENTYO MURHIMANYA Anathole
+2. 20MS422 MWAMBA SUMAILI René
+3. 20NK480 KITENGE NKULU Nabil 
+4. 20FM053 FURAHA MULAMBA Linda
+5. 20MK391 MUSASA KABWE Winner
+6. 20AM001 ADIRODU MBADUALE Richard
+7. 20PK501 PANDEMOYA KABULA Salem
+8. 20KM243 KINAMA MAMBWE Magali
+9. 20KM196 KASUMBA MUTAMBA Vainquer
+10. 20SW511 SANGWA WA KALUNGA Christ*/
+.conteneur{
+    margin: 20px 5px;
+    padding:5px 5px;
+    border: 3px blue groove;
+}
+.conteneur1{
+    border: 3px blue groove;
+    margin: 10px 5px;
+    padding:5px 5px;
+}
+.navbar:hover{
+    color:orange;
+}
+  header a:hover{
+    background-color:darkblue;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+}
+.btn1 {
+    height: 70px;
+    width: 70px;
+    background: crimson;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+}
+.icone {
+    width: 40px;
+}

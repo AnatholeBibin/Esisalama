@@ -1,0 +1,95 @@
+.conteneur{
+    margin: 20px 5px;
+    padding:5px 5px;
+    border: 3px blue groove;
+}
+.conteneur1{
+    border: 3px blue groove;
+    margin: 10px 5px;
+    padding:5px 5px;
+}
+.navbar:hover{
+    color:orange;
+}
+.btn1 {
+    height: 70px;
+    width: 70px;
+    background: crimson;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+}
+.icone {
+    width: 40px;
+}
+ header a:hover{
+    background-color:darkblue;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+}
+.d-block1{
+    margin: 20px;
+    background-image: radial-gradient(rgba(170, 165, 32, 0.66),rgb(188, 158, 46));
+    height: 400px;
+}
+.d-block2{
+    margin: 20px;
+    background-image: radial-gradient(rgb(7, 123, 121),rgb(19, 112, 69));
+    height: 400px;
+}
+.d-block3{
+    margin: 20px;
+    background-image: radial-gradient(rgb(7, 123, 121),rgb(21, 86, 124));
+    height: 400px;
+}
+.liens h2{
+    margin-top: 20px;
+    font-size: 50px;
+}
+.liens{
+    text-decoration: none;
+    font-size: 50px;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+.liens h2:hover{
+    font-weight: bold;
+    font-size: 60px;
+    color: aliceblue;
+}
+.description{
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(73, 74, 74);
+}
+.icons{
+    filter: opacity(0.20);
+}
+.block_center{
+    margin: auto;
+    margin-bottom: 20px;
+    max-width: 80%;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgba(240, 248, 255, 0.392);
+    box-shadow: -3px -3px 5px rgb(54, 53, 53);
+}
+.grid h2{
+    margin-top: 10px;
+    background-color: rgba(79, 98, 114, 0.725);
+    padding: 5px;
+    font-size: 25px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.btn{
+    margin: auto;
+    width: 70%;
+    margin-bottom: 20px;
+}
