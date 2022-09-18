@@ -3,15 +3,15 @@
 ## I) Lien vers notre site:  
 __Notre Site; clique ici:__ [Esisalama](https://esisalama.netlify.app)
 ## II) Participants:  
-1. 20BM025 BIBENTYO MURHIMANYA Anathole
+1. 20BM025 BIBENTYO MURHIMANYA Anathole(Chef du groupe)
 2. 20MS422 MWAMBA SUMAILI René
 3. 20NK480 KITENGE NKULU Nabil 
 4. 20FM053 FURAHA MULAMBA Linda
 5. 20MK391 MUSASA KABWE Winner
 6. 20AM001 ADIRODU MBADUALE Richard
 7. 20PK501 PANDEMOYA KABULA Salem
-8. 20KM243 KINAMA MAMBWE Magali
-9. 20KM196 KASUMBA MUTAMBA Vainquer
+8. 20KM243 KINAMA MAMBWE Magali(Adjoint)
+9. 20KM196 KASUMBA MUTAMBA Vainquer(Rapporteur)
 10. 20SW511 SANGWA WA KALUNGA Christ  
 ## a) Pour notre travail, nous avons utilisés:  
 * Html  
