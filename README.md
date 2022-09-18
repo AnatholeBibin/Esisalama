@@ -1,5 +1,16 @@
 # Esisalama / Description du projet
 -------------------------------------------------------
+## I) Participants:  
+1. 20BM025 BIBENTYO MURHIMANYA Anathole
+2. 20MS422 MWAMBA SUMAILI René
+3. 20NK480 KITENGE NKULU Nabil 
+4. 20FM053 FURAHA MULAMBA Linda
+5. 20MK391 MUSASA KABWE Winner
+6. 20AM001 ADIRODU MBADUALE Richard
+7. 20PK501 PANDEMOYA KABULA Salem
+8. 20KM243 KINAMA MAMBWE Magali
+9. 20KM196 KASUMBA MUTAMBA Vainquer
+10. 20SW511 SANGWA WA KALUNGA Christ  
 ## a) Pour notre travail, nous avons utilisés:  
 * Html  
 * Css  
@@ -52,7 +63,10 @@ Pourtant, quelques années après, __le Macintosh d'Apple triomphera sur la scè
 ## f) Nos remerciements  
 Nous disons merci au prof Emmanuel Ntumba et toute son équipe entre autre nous remercions Mr Gael et Mr Joeboy car c'est grace à vous que nous sommes   
 parvenus à corriger le site de Esis et vous avez mis en application le principe du LMD qui consiste à mettre l'étudiant au centre de sa formation; vraiment grand Merci  
-Que Dieu vous benisse.
+Que Dieu vous benisse.  
+
+## H) Lien vers notre site:  
+Notre Site; clique ici: [Esisalama](https://esisalama.netlify.app)
 
 
 
