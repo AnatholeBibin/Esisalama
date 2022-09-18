@@ -1,0 +1,35 @@
+.conteneur{
+    margin: 20px 5px;
+    padding:5px 5px;
+    border: 3px blue groove;
+}
+.conteneur1{
+    border: 3px blue groove;
+    margin: 10px 5px;
+    padding:5px 5px;
+}
+.navbar:hover{
+    color:orange;
+}
+  header a:hover{
+    background-color:darkblue;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+}
+.btn1 {
+    height: 70px;
+    width: 70px;
+    background: crimson;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+}
+.icone {
+    width: 40px;
+}
