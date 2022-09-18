@@ -20,7 +20,7 @@
 * Notre page des horaires qui n'est pas rensponsive; et on a pas pu bien caché le contenu des horaires
 ## e) Historique de Mr Niklaus Wirth:  
 « Je savais que je n’étais pas un homme d’affaires, mais j’avais assez à faire avec l’enseignement et la recherche. »  
-![Image de Wirth]()  
+![Image de Wirth](esisalama.org/willer.jpg)  
 Né le 15 février 1934, à Winterthour, en Suisse, Niklaus Wirth sera diplômé de __l'Ecole polytechnique de Zurich (EPF)__, titulaire d'une maîtrise en sciences de  
 l'Université de Laval (Québec) ainsi que Docteur à l'Université de Californie à Berkeley (Etats-Unis).  
 
@@ -44,7 +44,7 @@ Niklaus Wirth revient de ce voyage en l’Europe des idées plein la tête et ra
   
 En parallèle, Niklaus travaille au début des années 1980 sur la construction de stations de travail Lilith et Ceres ainsi que de systèmes d’exploitation. A l’époque, il n'existe pas d’ordinateurs personnels en Suisse. Il choisit donc d'en créer un lui-même. 
   
-  ![Image de Wirth]()  
+  ![Image de Wirth](esisalama.org/niklaus.jpg)  
 Il conçoit __l'ordinateur personnel Lilith__ (cf. image ci-dessus), qu'il dote d'une interface utilisateur moderne avec des fenêtres de programme, des menus ainsi qu’une souris.
 C'est une réelle révolution pour l'époque, qui fera avancer le monde de la recherche informatique.
 Suite à cette invention, l'ordinateur Lilith est produit en plusieurs centaines d'exemplaires aux Etats-Unis, mais ne connaîtra cependant pas de franc succès...
